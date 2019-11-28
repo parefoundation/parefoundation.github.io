@@ -1,0 +1,18 @@
+.btn-link-no-padding {
+    padding: unset !important;
+}
+.dr-picture-override {
+    background-position: unset !important;
+    height: 500px !important;
+}
+
+.image-no-box-shadow {
+    box-shadow: unset !important;
+}
+
+.haiti-picture-override {
+    background-position: unset !important;
+    height: 550px !important;
+    margin-top: 220px !important;
+    margin-left: unset !important
+}
