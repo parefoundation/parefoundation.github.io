@@ -68,12 +68,22 @@
   
   <url>
     <loc>https://parefoundation.github.io/projects/current-projects/canada/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://parefoundation.github.io/fr/projects/current-projects/canada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parefoundation.github.io/projects/current-projects/canada/"
+                />
   </url>
   
   <url>
     <loc>https://parefoundation.github.io/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
