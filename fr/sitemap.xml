@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parefoundation.github.io/projects/past-projects/dominican_republic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/"
+                />
+  </url>
+  
+  <url>
     <loc>https://parefoundation.github.io/fr/projects/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -29,20 +44,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parefoundation.github.io/projects/past-projects/dominican_republic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/"
                 />
   </url>
   
@@ -72,10 +73,6 @@
   </url>
   
   <url>
-    <loc>https://parefoundation.github.io/fr/about/demo/</loc>
-  </url>
-  
-  <url>
     <loc>https://parefoundation.github.io/fr/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -102,10 +99,6 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/authors/admin/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://parefoundation.github.io/fr/about/</loc>
   </url>
   
   <url>
