@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parefoundation.github.io/fr/projects/current-projects/malawi/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parefoundation.github.io/projects/current-projects/malawi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://parefoundation.github.io/fr/projects/current-projects/malawi/"
+                />
+  </url>
+  
+  <url>
     <loc>https://parefoundation.github.io/fr/projects/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -14,21 +29,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://parefoundation.github.io/fr/projects/current-projects/malawi/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parefoundation.github.io/projects/current-projects/malawi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://parefoundation.github.io/fr/projects/current-projects/malawi/"
                 />
   </url>
   
