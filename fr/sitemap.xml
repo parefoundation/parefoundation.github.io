@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/malawi/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/current-projects/malawi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/past-projects/canada/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/past-projects/canada/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/haiti/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,19 +66,13 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/projects/current-projects/haiti/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/india/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/canada/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,9 +85,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,9 +97,19 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/authors/admin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://parefoundation.github.io/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parefoundation.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://parefoundation.github.io/fr/about/"
+                />
+  </url><url>
     <loc>https://parefoundation.github.io/fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,9 +121,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -142,9 +133,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/bod/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,9 +145,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/bod/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/giving/</loc>
     <xhtml:link
                 rel="alternate"
@@ -170,9 +157,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/giving/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,9 +169,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -198,9 +181,7 @@
                 hreflang="fr"
                 href="https://parefoundation.github.io/fr/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://parefoundation.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -213,19 +194,4 @@
                 href="https://parefoundation.github.io/fr/tags/"
                 />
   </url>
-  
-  <url>
-    <loc>https://parefoundation.github.io/fr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parefoundation.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://parefoundation.github.io/fr/about/"
-                />
-  </url>
-  
 </urlset>
