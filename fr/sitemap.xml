@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/malawi/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://parefoundation.github.io/fr/projects/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,6 +41,19 @@
                 href="https://parefoundation.github.io/fr/projects/past-projects/dominican_republic/"
                 />
   </url><url>
+    <loc>https://parefoundation.github.io/fr/projects/current-projects/haiti/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parefoundation.github.io/projects/current-projects/haiti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://parefoundation.github.io/fr/projects/current-projects/haiti/"
+                />
+  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/past-projects/canada/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,27 +67,14 @@
                 href="https://parefoundation.github.io/fr/projects/past-projects/canada/"
                 />
   </url><url>
-    <loc>https://parefoundation.github.io/fr/projects/current-projects/haiti/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parefoundation.github.io/projects/current-projects/haiti/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://parefoundation.github.io/fr/projects/current-projects/haiti/"
-                />
-  </url><url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/india/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parefoundation.github.io/fr/projects/current-projects/canada/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parefoundation.github.io/fr/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
